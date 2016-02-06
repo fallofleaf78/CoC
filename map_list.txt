@@ -1,5 +1,6 @@
 {
 "filePath":"https://raw.githubusercontent.com/fallofleaf78/CoC/master/maps/",
+"version":"1"
 "imgArray":[
 "image":"38.jpg",
 "image":"a1.jpg",
