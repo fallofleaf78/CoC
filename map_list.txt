@@ -1,8 +1,8 @@
 {
 "filePath":"https://raw.githubusercontent.com/fallofleaf78/CoC/master/",
 "original":"maps/",
-"thumbnail":"maps_thumbnail/"
-"version":"1"
+"thumbnail":"maps_thumbnail/",
+"version":"1",
 "imgArray":[
 "image":"38.jpg",
 "image":"a1.jpg",
