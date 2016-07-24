@@ -1,8 +1,14 @@
 {
-"filePath":"https://raw.githubusercontent.com/fallofleaf78/CoC/master/level8/",
+"filePath":"https://raw.githubusercontent.com/fallofleaf78/CoC/master/level5/",
 "original":"maps/",
 "thumbnail":"maps_thumbnail/",
 "version":"1",
 "imgArray":[
-
+{"image":"th5_war_base_coc_2.jpg"},
+{"image":"th5_war_base_coc_1.jpg"},
+{"image":"th5_war_base_coc_3.jpg"},
+{"image":"th5_war_base_coc_5.jpg"},
+{"image":"th5_war_base_coc_4.jpg"},
+{"image":"th5_war_base_coc_9.jpg"},
+{"image":"th5_war_base_coc_10.jpg"}
 ]}
