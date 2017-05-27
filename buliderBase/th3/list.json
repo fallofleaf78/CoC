@@ -4,6 +4,7 @@
 "thumbnail":"maps_thumbnail/",
 "version":"1",
 "imgArray":[
+<<<<<<< HEAD
 {"image":"th11_a1.jpg"},
 {"image":"th11_a2.jpg"},
 {"image":"th11_a3.jpg"},
@@ -17,4 +18,14 @@
 {"image":"th11_3.jpg"},
 {"image":"th11_3.jpg"}
 
+=======
+{"image":"th3_1.jpg"},
+{"image":"th3_2.jpg"},
+{"image":"th3_3.jpg"},
+{"image":"th3_4.jpg"},
+{"image":"th3_5.jpg"},
+{"image":"th3_6.jpg"},
+{"image":"th3_7.jpg"},
+{"image":"th3_8.jpg"}
+>>>>>>> origin/master
 ]}
